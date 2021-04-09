@@ -5,9 +5,8 @@
     "license": "MIT",
     "type": "project",
     "require": {
-        "php": ">=5.5.9",
-        "laravel/framework": "5.1.*",
-        "laravel/dompdf": "0.8.5"
+        "php": ">=7.3.0",
+        "laravel/framework": "v8.36.2"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
